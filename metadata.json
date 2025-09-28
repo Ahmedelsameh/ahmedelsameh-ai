@@ -1,0 +1,5 @@
+{
+  "name": "Ahmedelsameh Ai Studio",
+  "description": "An AI-powered image studio to generate creative prompts from character and style images, and then design new photos using the Gemini Nano Banana model.",
+  "requestFramePermissions": []
+}
